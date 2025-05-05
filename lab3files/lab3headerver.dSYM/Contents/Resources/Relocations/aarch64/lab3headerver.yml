@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/saraparvaresh/Library/Mobile Documents/com~apple~CloudDocs/uni resources/1W/esc190/C/labs/lab3headerver'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _set_int1, symObjAddr: 0x0, symBinAddr: 0x1000037AC, symSize: 0x18 }
+  - { offsetInCU: 0xE6, offset: 0xE6, size: 0x8, addend: 0x0, symName: _set_int1, symObjAddr: 0x0, symBinAddr: 0x1000037AC, symSize: 0x18 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: _set_int2, symObjAddr: 0x18, symBinAddr: 0x1000037C4, symSize: 0x1C }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: _print_student, symObjAddr: 0x34, symBinAddr: 0x1000037E0, symSize: 0x78 }
+  - { offsetInCU: 0x157, offset: 0x157, size: 0x8, addend: 0x0, symName: _set_default_name, symObjAddr: 0xAC, symBinAddr: 0x100003858, symSize: 0x38 }
+  - { offsetInCU: 0x17B, offset: 0x17B, size: 0x8, addend: 0x0, symName: _set_default_name_wrong, symObjAddr: 0xE4, symBinAddr: 0x100003890, symSize: 0x3C }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: _create_block1, symObjAddr: 0x120, symBinAddr: 0x1000038CC, symSize: 0x38 }
+  - { offsetInCU: 0x1D2, offset: 0x1D2, size: 0x8, addend: 0x0, symName: _set_name, symObjAddr: 0x158, symBinAddr: 0x100003904, symSize: 0x30 }
+  - { offsetInCU: 0x204, offset: 0x204, size: 0x8, addend: 0x0, symName: _destroy_block1, symObjAddr: 0x188, symBinAddr: 0x100003934, symSize: 0x24 }
+  - { offsetInCU: 0x228, offset: 0x228, size: 0x8, addend: 0x0, symName: _create_block2, symObjAddr: 0x1AC, symBinAddr: 0x100003958, symSize: 0xA0 }
+  - { offsetInCU: 0x276, offset: 0x276, size: 0x8, addend: 0x0, symName: _set_name2, symObjAddr: 0x24C, symBinAddr: 0x1000039F8, symSize: 0x6C }
+  - { offsetInCU: 0x2A8, offset: 0x2A8, size: 0x8, addend: 0x0, symName: _destroy_block2, symObjAddr: 0x2B8, symBinAddr: 0x100003A64, symSize: 0x94 }
+  - { offsetInCU: 0x2F6, offset: 0x2F6, size: 0x8, addend: 0x0, symName: _modify_name, symObjAddr: 0x34C, symBinAddr: 0x100003AF8, symSize: 0x30 }
+  - { offsetInCU: 0x31B, offset: 0x31B, size: 0x8, addend: 0x0, symName: _modify_name_ptr, symObjAddr: 0x37C, symBinAddr: 0x100003B28, symSize: 0x10 }
+  - { offsetInCU: 0x340, offset: 0x340, size: 0x8, addend: 0x0, symName: _print_file_contents, symObjAddr: 0x38C, symBinAddr: 0x100003B38, symSize: 0xB4 }
+  - { offsetInCU: 0x380, offset: 0x380, size: 0x8, addend: 0x0, symName: _calculate_average, symObjAddr: 0x440, symBinAddr: 0x100003BEC, symSize: 0xF8 }
+  - { offsetInCU: 0x3DC, offset: 0x3DC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x538, symBinAddr: 0x100003CE4, symSize: 0x110 }
+...

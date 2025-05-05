@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/saraparvaresh/Library/Mobile Documents/com~apple~CloudDocs/uni resources/1W/esc190/C/labs/lab1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _changer, symObjAddr: 0x0, symBinAddr: 0x100003A68, symSize: 0x1C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _changer, symObjAddr: 0x0, symBinAddr: 0x100003A68, symSize: 0x1C }
+  - { offsetInCU: 0x65, offset: 0x65, size: 0x8, addend: 0x0, symName: _arr_change, symObjAddr: 0x1C, symBinAddr: 0x100003A84, symSize: 0x28 }
+  - { offsetInCU: 0x89, offset: 0x89, size: 0x8, addend: 0x0, symName: _insertion_sort, symObjAddr: 0x44, symBinAddr: 0x100003AAC, symSize: 0x8C }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: _length_counter, symObjAddr: 0xD0, symBinAddr: 0x100003B38, symSize: 0x5C }
+  - { offsetInCU: 0xFB, offset: 0xFB, size: 0x8, addend: 0x0, symName: _seq_replace, symObjAddr: 0x12C, symBinAddr: 0x100003B94, symSize: 0x14C }
+  - { offsetInCU: 0x19D, offset: 0x19D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x278, symBinAddr: 0x100003CE0, symSize: 0x248 }
+...

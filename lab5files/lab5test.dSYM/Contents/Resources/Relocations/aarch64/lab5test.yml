@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/saraparvaresh/Library/Mobile Documents/com~apple~CloudDocs/uni resources/1W/esc190/C/labs/lab5test'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _create_list_from_data, symObjAddr: 0x0, symBinAddr: 0x10000385C, symSize: 0xF4 }
+  - { offsetInCU: 0x8A, offset: 0x8A, size: 0x8, addend: 0x0, symName: _create_list_from_data, symObjAddr: 0x0, symBinAddr: 0x10000385C, symSize: 0xF4 }
+  - { offsetInCU: 0xCA, offset: 0xCA, size: 0x8, addend: 0x0, symName: _list_append, symObjAddr: 0xF4, symBinAddr: 0x100003950, symSize: 0xDC }
+  - { offsetInCU: 0x118, offset: 0x118, size: 0x8, addend: 0x0, symName: _list_insert, symObjAddr: 0x1D0, symBinAddr: 0x100003A2C, symSize: 0x17C }
+  - { offsetInCU: 0x19E, offset: 0x19E, size: 0x8, addend: 0x0, symName: _list_delete, symObjAddr: 0x34C, symBinAddr: 0x100003BA8, symSize: 0xE4 }
+  - { offsetInCU: 0x216, offset: 0x216, size: 0x8, addend: 0x0, symName: _list_destroy, symObjAddr: 0x430, symBinAddr: 0x100003C8C, symSize: 0x88 }
+  - { offsetInCU: 0x256, offset: 0x256, size: 0x8, addend: 0x0, symName: _list_get, symObjAddr: 0x4B8, symBinAddr: 0x100003D14, symSize: 0x68 }
+  - { offsetInCU: 0x26, offset: 0x2C5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D7C, symSize: 0x154 }
+  - { offsetInCU: 0x41, offset: 0x2E0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D7C, symSize: 0x154 }
+...
